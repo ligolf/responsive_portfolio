@@ -1,2 +1,2 @@
-# responsive_portfolio
-Homework Week 2
+# bootstrap_portfolio
+Bootstrap Portfolio
